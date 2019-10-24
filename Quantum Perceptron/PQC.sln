@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PQC", "PQC\PQC.csproj", "{D71BE60F-1C8A-4EB1-973A-EE70061429AA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "QuantumImageProcessing", "QuantumImageProcessing\QuantumImageProcessing.pyproj", "{F9042597-F6A0-493F-8290-F676EA1913EA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "QIP", "QIP\QIP.pyproj", "{9353ED9B-910C-4E50-A7DD-D1AE325C8236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D71BE60F-1C8A-4EB1-973A-EE70061429AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71BE60F-1C8A-4EB1-973A-EE70061429AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71BE60F-1C8A-4EB1-973A-EE70061429AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71BE60F-1C8A-4EB1-973A-EE70061429AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9042597-F6A0-493F-8290-F676EA1913EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9042597-F6A0-493F-8290-F676EA1913EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9042597-F6A0-493F-8290-F676EA1913EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9042597-F6A0-493F-8290-F676EA1913EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9353ED9B-910C-4E50-A7DD-D1AE325C8236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9353ED9B-910C-4E50-A7DD-D1AE325C8236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D9722B6-AA69-4DC5-A14C-9B78596947CD}
+	EndGlobalSection
+EndGlobal
